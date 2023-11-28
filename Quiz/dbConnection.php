@@ -1,6 +1,6 @@
 <?php
 $host = 'database-2.ceixpj0ratbh.us-east-1.rds.amazonaws.com';
-$dbname = 'course_db';
+$dbname = 'quiz';
 $username = 'admin';
 $password = 'Ramithy123';
 
